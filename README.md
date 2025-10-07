@@ -20,10 +20,10 @@
 > - **Power Point**
 >
 > ## 🖼️ Preview do Relatório
-> Aqui ficarão as imagens do relatório...
-> [Geral] (<img width="1322" height="738" alt="relatorio_imagem_geral" src="https://github.com/user-attachments/assets/f83dd387-28c3-4433-a038-7cd89963abcb" />)
-> [Análises] (<img width="1320" height="732" alt="relatorio_imagem_analises" src="https://github.com/user-attachments/assets/40af3868-5758-4643-8a24-db18cedf2084" />)
-> [Devoluções] (<img width="1326" height="737" alt="relatorio_imagem_devolucoes" src="https://github.com/user-attachments/assets/9d47cb3d-01e1-40d6-a53a-ef4c8821110f" />)
+> Aqui ficarão as imagens do relatório... <br>
+> Geral - (<img width="1322" height="738" alt="relatorio_imagem_geral" src="https://github.com/user-attachments/assets/f83dd387-28c3-4433-a038-7cd89963abcb" />) <br>
+> Análises - (<img width="1320" height="732" alt="relatorio_imagem_analises" src="https://github.com/user-attachments/assets/40af3868-5758-4643-8a24-db18cedf2084" />) <br>
+> Devoluções - (<img width="1326" height="737" alt="relatorio_imagem_devolucoes" src="https://github.com/user-attachments/assets/9d47cb3d-01e1-40d6-a53a-ef4c8821110f" />)
 
 ## 👨‍💻 Autor 
 **Rafael de Oliveira Cruz Souza**
